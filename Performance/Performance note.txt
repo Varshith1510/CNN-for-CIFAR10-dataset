@@ -1,0 +1,6 @@
+Training:
+	Loss: 1.12
+	Accuracy: 60%
+
+Testing:
+	Accuracy: 60%
