@@ -20,8 +20,6 @@ The CIFAR-10 dataset consists of 60,000 32x32 pixel images across 10 categories:
 - Ship
 - Truck
 
-For more details on the dataset, you can visit the [Kaggle CIFAR-10 Dataset](https://www.kaggle.com/datasets/krishnakesh/cifar-10).
-
 ## Model Architecture
 
 The CNN model used in this project consists of:
